@@ -1,0 +1,48 @@
+
+footer {
+    background-color: #19171C;
+    width: 100%;
+    height: 20rem;
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 60vh;
+}
+
+footer p {
+    color: #D60404;
+}
+
+footer h2 {
+    color: #D60404;
+}
+
+.navigation {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.navigation, .a-propos {
+margin-top: 2vh;
+}
+
+
+@media only screen and (max-width:768px){
+
+    footer {
+        flex-direction: column;
+        height: 100%;
+        align-items: center;
+    }
+
+    .navigation {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .navigation, .a-propos, .band {
+        text-align: center;
+    }
+
+    
+}

@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 1,
+        "editeur": "Kurokawa",
+        "description": "Satoru, employé de bureau lambda, se fait assassiner par un criminel en pleine rue. Son histoire aurait dû s'arrêter là, mais il se retrouve soudain réincarné dans un autre monde sous la forme d'un Slime, le monstre le plus faible du bestiaire fantastique. Le voilà équipé de deux compétences uniques : ' Prédateur ', lui permettant de récupérer les aptitudes de ses adversaires, et ' Grand Sage ', grâce à laquelle il acquiert une compréhension aiguë de son environnement. Mais même muni de ces armes, ses chances de survie semblent cependant limitées...",
+        "prix": 6.65,
+        "img": "./assets/image/card/71ibGo+MRvL.png" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 2,
+        "editeur": "Kurokawa",
+        "description": "Arrivés au royaume des nains dans l'espoir d'y trouver un ingénieur, Limule et sa suite se retrouvent aux prises avec un ministre malveillant. Leurs démêlés avec cet homme puissant les mènent directement sur le banc des accusés. Le roi en personne va juger de leur sort, dans un procès qui s'annonce très défavorable. Comment se tirer d'un tel mauvais pas quand on n'a pas même le droit de dire un mot pour se défendre ?",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/511lQcoJkCL._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 3,
+        "editeur": "Kurokawa",
+        "description": "Shizue Izawa, la maîtresse des brasiers, l'héroïne respectée de tous. Limule a hérité de ses volontés et de son apparence. Parti s'entraîner pour apprendre à maîtriser pleinement les pouvoirs d'Ifrit, Limule reçoit soudain un appel au secours : ses compagnons ont été attaqués par d'étranges ogres...",
+        "prix": 6.65,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51N49AYz+-L._SX349_BO1,204,203,200_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 4,
+        "editeur": "Kurokawa",
+        "description": "Une nouvelle ébranle la forêt de Jura : un terrible monstre, le seigneur orc, marcherait sur les terres champêtres avec une armée de deux cent mille têtes. Une dryade, gardienne de la forêt, a instamment demandé à Limule de l'éliminer, et l'heure est à présent d'élaborer un plan avec l'aide des hommes-lézards.",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/514TIInPilL._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 5,
+        "editeur": "Kurokawa",
+        "description": "Le démon Germudo a fait son apparition devant Limule et les siens. Déçu de constater que le seigneur orc n'a pas évolué en roi-démon, il lui enjoint de dévorer Gabiru l'homme-lézard pour y arriver. Mais l'orc ne réagit pas à ses ordres. Limule arrivera-t-il à faire tourner la situation en sa faveur ?",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51e6Rl7S7yL._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 6,
+        "editeur": "Kurokawa",
+        "description": "Après avoir vaincu le seigneur Orc, Limule est devenu chef de l'alliance de la forêt de Jura. Il a de nouveaux compagnons et commence à étendre petit à petit son influence dans ce monde. Cela signifie aussi qu'il commence à attirer l'attention des puissants , tels que Gazehr Dwargo le roi des nains, mais aussi Millim Narva, une des plus anciennes figures parmi les rois-démons. Comment Limule va-t-il gérer l'attention de ces personnages peu accommodants ?",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51VJ83mxtEL._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 7,
+        "editeur": "Kurokawa",
+        "description": "Millim, la plus redoutable des rois-démons, s'est installée dans la ville de Limule. Il se pourrait que vu de l'extérieur, on croie que Limule et elle ont conclu une alliance, mais Limule et les siens n'ont pas d'autre choix que d'attendre son départ en tentant de ne pas mettre de mauvaise humeur. C'est à ce moment que des subordonnés du roi-démon Callion arrivent à Tempest...",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51GKpd72vVL._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 8,
+        "editeur": "Kurokawa",
+        "description": "Fabio, envoyé du roi-démon Callion, a été mis au tapis en un coup par Millim. Furieux, il voit apparaître devant lui deux saltimbanques modérés qui veulent utiliser sa rancoeur pour faire de lui le nouvel hôte d'une créature appelée Charybde, qu'ils comptent ressusciter. À l'insu de Limule, elle va se diriger droit vers Tempest... Que cache ce nouveau complot ?",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/5145IkKLeDL._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 9,
+        "editeur": "Kurokawa",
+        "description": "Sur la proposition du roi-démon Callion, les nations de Tempest et d'Eurasanie ont envoyé des délégations et établi des relations diplomatiques. Tempest a ainsi envoyé un groupe avec à sa tête Benimaru, tandis que l'Eurasanie a envoyé un groupe autour d' Albis, la vipère à cornes. Celui-ci se montre assez rapidement hostile et semble vouloir en découdre... Que vont donc devenir les négociations avec le royaume des fauves ?",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51-hPemw8-L._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    },
+
+    {
+        "name": "Moi quand je me réincarne en slime",
+        "tome": 10,
+        "editeur": "Kurokawa",
+        "description": "Limule se dirige à présent vers l'Englasie dans l'espoir d'y rencontrer les enfants évoqués par Shizu. En passant par Burmund, il s'inscrit comme aventurier et rencontre secrètement le roi, ce qui lui donne l'occasion de se souvenir que les humains ne sont parfois pas faciles. Envin arrivés en Englasie, il rencontre un certain Yûki Kagurazaka...",
+        "prix": 6.65,
+        "img": "https://images-eu.ssl-images-amazon.com/images/I/51nW6Ww7c8L._SY291_BO1,204,203,200_QL40_ML2_.jpg" 
+        
+    }
+]

@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+h1, p.tome, p.author, p.prix, button{
+    font-family: 'Merriweather', serif;
+}
+
+p.description {
+    font-family: 'Oswald', sans-serif;
+}
+
+#price, #delivery, #ttc {
+    font-family: 'Oswald', sans-serif;
+}
+
+footer {
+    font-family: 'Merriweather', serif;
+}
+
+a {
+    color: #D60404;
+}
+
+span {
+    color: #D60404;
+}
+
+button {
+    color: #FAFAFA;
+}
+
+body {
+    background-color: #E6E3C8;
+}
+
+.card {
+    background-color: #FAFAFA;
+}
